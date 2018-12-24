@@ -4,6 +4,8 @@ import time
 
 app = Flask(__name__)
 
+from reptile import baiduReplite, xhReplite
+
 '''
 设置静态图片
 '''
@@ -21,19 +23,8 @@ conn = MongoClient('mongodb://localhost:27017/')
 db = conn.reptilesDB
 reptilesDB = db.reptilesDB
 
-# '''
-#  连接数据库 redis
-# '''
-# redis = StrictRedis(host='localhost', port=6379, db=2)
 
 
-
-from reptile import baiduReplite, xhReplite, get_host_ip
-
-
-# @app.route('/')
-# def index():
-#     return 'Hello World!'
 
 
 '''
@@ -45,13 +36,9 @@ from reptile import baiduReplite, xhReplite, get_host_ip
 
 
 def timeTest(time):
-    getIp = get_host_ip()
+    baiduReplite(reptilesDB, time)
+    xhReplite(reptilesDB)
 
-    baiduReplite(reptilesDB, getIp, time)
-    xhReplite(reptilesDB, getIp)
-
-
-        # time.sleep(300)
 
 if __name__ == '__main__':
     while True:

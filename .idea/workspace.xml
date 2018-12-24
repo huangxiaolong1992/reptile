@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f41226f1-0dd8-4fee-845f-b97744adf631" name="Default" comment="" />
+    <list default="true" id="f41226f1-0dd8-4fee-845f-b97744adf631" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reptile.py" beforeDir="false" afterPath="$PROJECT_DIR$/reptile.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+            <state relative-caret-position="431">
+              <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="25" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -27,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reptile.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reptile.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reptile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2376">
-              <caret line="99" selection-start-line="98" selection-end-line="99" />
+            <state relative-caret-position="773">
+              <caret line="208" column="27" selection-start-line="208" selection-start-column="27" selection-end-line="208" selection-end-column="27" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -51,16 +65,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>replite</find>
-      <find>0</find>
-      <find>html</find>
-      <find>htmlhtml</find>
-      <find>content</find>
-      <find>c-title</find>
-      <find>2</find>
       <find>originAddress</find>
       <find>20</find>
-      <find>newAddress</find>
       <find>req</find>
       <find>requests</find>
       <find>星火公司数据</find>
@@ -73,22 +79,33 @@
       <find>pic</find>
       <find>request_downloadrequest_download</find>
       <find>MongoClient</find>
-      <find>request_download</find>
       <find>redis</find>
       <find>time</find>
-      <find>baiduReplite</find>
       <find>xhReplite</find>
       <find>post</find>
       <find>string</find>
       <find>pri</find>
+      <find>baiduReplite</find>
+      <find>get_host_ip</find>
+      <find>renameImg</find>
+      <find>newImgUrl</find>
+      <find>baiduReplitebaiduReplite</find>
+      <find>articleImgArr</find>
+      <find>newAddress</find>
+      <find>request_download</find>
+      <find>tiem</find>
+      <find>fastdfsUrl</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/models.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/reptile.py" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
@@ -102,11 +119,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-446" />
-    <option name="y" value="197" />
+    <option name="x" value="240" />
+    <option name="y" value="474" />
     <option name="width" value="1699" />
     <option name="height" value="989" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,6 +137,11 @@
               <item name="pc-flask" type="b2602c69:ProjectViewProjectNode" />
               <item name="pc-flask" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pc-flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pc-flask" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -128,7 +151,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/untitled" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -218,17 +241,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="3" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.22954305" />
       <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15520833" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10364583" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -256,10 +279,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/101.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/100.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/6-a.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/10-a.jpg" />
     <entry file="file://$PROJECT_DIR$/images/11-a.jpg" />
     <entry file="file://$PROJECT_DIR$/images/12-a.jpg" />
     <entry file="file://$PROJECT_DIR$/images/13-a.jpg" />
@@ -293,10 +312,6 @@
     <entry file="file://$PROJECT_DIR$/images/30005-a.jpg" />
     <entry file="file://$PROJECT_DIR$/images/30008-a.jpg" />
     <entry file="file://$PROJECT_DIR$/images/10002-a.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/2.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/4.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/6.jpg" />
-    <entry file="file://$PROJECT_DIR$/images/7.jpg" />
     <entry file="file://$PROJECT_DIR$/images/40006-a.jpg" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -305,40 +320,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/3.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="842" column="29" selection-start-line="842" selection-start-column="29" selection-end-line="842" selection-end-column="29" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/10.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymongo/mongo_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="327" column="13" selection-start-line="327" selection-start-column="13" selection-end-line="327" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/9.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1784292382/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="5220" selection-start-line="4658" selection-end-line="5220" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/9.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/6.png" />
+    <entry file="file://$PROJECT_DIR$/images/10.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/8.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/6.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/5.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/3.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/4.jpg" />
     <entry file="file://$PROJECT_DIR$/images/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/images/7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reptile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        <state relative-caret-position="773">
+          <caret line="208" column="27" selection-start-line="208" selection-start-column="27" selection-end-line="208" selection-end-column="27" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reptile.py">
+    <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2376">
-          <caret line="99" selection-start-line="98" selection-end-line="99" />
+        <state relative-caret-position="431">
+          <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="25" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
